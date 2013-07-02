@@ -25,6 +25,7 @@ namespace ServiceDeskApp.Controllers
 
         public ActionResult Contact()
         {
+            //test3
             ViewBag.Message = "Your contact page.";
 
             return View();
